@@ -12,6 +12,7 @@ conda activate qiskit_env
 ## Prepare environment
 ```
 conda install -c conda-forge qiskit
+conda install -c conda-forge qiskit-aer
 conda install -c conda-forge matplotlib
 conda install ipython
 ```
