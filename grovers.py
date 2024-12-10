@@ -1,4 +1,6 @@
-from qiskit import QuantumCircuit, Aer, execute
+from qiskit import QuantumCircuit
+from qiskit import BasicAer
+from qiskit import execute
 from qiskit.visualization import plot_histogram
 from qiskit.circuit.library import GroverOperator
 
